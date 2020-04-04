@@ -1,0 +1,19 @@
+{
+     "APP_HOME_HEADER_TEXT": "VIDEO DOWNLOADER",
+     "URL_FORM_INPUT_PLACEHOLDER": "Paste url",
+     "URL_FORM_SELECT_PLACEHOLDER": "Select website",
+     "URL_FORM_SELECT_INPUT_BLANK": "Please select the website and paste URL",
+     "DOWNLOAD_BUTTON_TEXT": "DOWNLOAD",
+     "DOWNLOAD_BEGIN_TOAST_MSG": "Downloading",
+     "INVALID_URL_TOAST_MSG": "Invalid Url",
+     "UNSUPPORTED_APP_TOAST_MSG": "Unsupported social media website",
+     "DOWNLOAD_SUCCESS_TOAST_MSG": "Download Successfull",
+     "DOWNLOAD_FAIL_NO_URL_TOAST_MSG": "Video not available",
+     "FACEBOOK": "Facebook",
+     "INSTAGRAM": "Instagram",
+     "DOWNLOAD_PATH": "/storage/emulated/0/SocialDownloader",
+     "DOWNLOAD_FOLDER_NAME": "SocialDownloader",
+     "PERMISSION_GRANTED": "granted",
+     "BANNER_AD_ID": "ca-app-pub-7530249767569480/3803799204",
+     "INTERSTITIAL_AD_ID":"ca-app-pub-7530249767569480/1975372906"
+}

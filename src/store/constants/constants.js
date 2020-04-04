@@ -1,0 +1,2 @@
+export const DOWNLOAD_VIDEO = "DOWNLOAD_VIDEO";
+export const DELETE_VIDEO = "DELETE_VIDEO";
