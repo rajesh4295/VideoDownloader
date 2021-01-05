@@ -17,7 +17,7 @@
     "@react-navigation/stack": "^5.0.5",
     "@ui-kitten/components": "^4.4.0",
     "@ui-kitten/eva-icons": "^4.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cheerio-without-node-native": "^0.20.2",
     "native-base": "^2.13.8",
     "node-libs-react-native": "^1.0.3",
