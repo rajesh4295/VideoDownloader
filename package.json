@@ -22,7 +22,7 @@
     "native-base": "^2.13.8",
     "node-libs-react-native": "^1.0.3",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-admob": "^2.0.0-beta.6",
     "react-native-file-viewer": "^2.0.2",
     "react-native-fs": "^2.16.4",
